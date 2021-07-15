@@ -4,7 +4,7 @@ Here we are working on 2D materials reducing CO2 to hydrocarbon
 
 
 
-![](/home/yavar/MYGIT/Research-Projects/PHOTOCATALYSTS/photocatalyt.png)
+![](./photocatalyt.png)
 
 
 
