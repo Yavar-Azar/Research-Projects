@@ -4,6 +4,10 @@ Here we are working on 2D materials reducing CO2 to hydrocarbon
 
 
 
+![](/home/yavar/MYGIT/Research-Projects/PHOTOCATALYSTS/photocatalyt.png)
+
+
+
 ## Separation of CO2 at 2D graphene-based materials
 
 
