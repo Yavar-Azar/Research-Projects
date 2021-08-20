@@ -39,6 +39,8 @@ Here we are working on 2D materials reducing CO2 to hydrocarbon
 
 
 ## Discussions
+- For pristine graphene adsorption occurs in top site and for defected graphene adsorption occurs in top and hole sites.
+
 
 
 
