@@ -40,6 +40,8 @@ Here we are working on 2D materials reducing CO2 to hydrocarbon
 
 ## Discussions
 - For pristine graphene adsorption occurs in top site and for defected graphene adsorption occurs in top and hole sites.
+- In the case of pristine graphene by comaparing total energy of adsorbed CO2+graphene and unadsorbed CO2+graphene it is clear that unadsorbed system is more stable than adsorbed one. However in the case of defected graphene adsorbed system is more stable than unadsorbed one.
+- Defected graphene has negative fermi energy which is can be related to its metal property. Also its band structure file shows conduction band is correlated with the valance band.
 
 
 
